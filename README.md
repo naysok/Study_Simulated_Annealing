@@ -1,7 +1,7 @@
 # Study_Simulated_Annealing  
 
 
-焼きなまし法の検討。  
+複数の変数に対しての焼きなまし法の検討。  
 
 
 数式を定義すべきだが面倒なので Rhino で NxN の形の PointArray を用意し、この PointArray から Polygon を作成し計算に用いる（実際には、Polygon として作成し計算にかけるのは近傍のみとする）。  
